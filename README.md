@@ -19,3 +19,7 @@
 
 ## Login
 ![login](https://github.com/AustinEnglish/DontLoseYourLicense-Externship/blob/master/Screen%20Shot%202019-02-02%20at%203.14.10%20PM.png?raw=true "Title")
+
+
+## Mailchimp Email
+![new article email](https://github.com/AustinEnglish/DontLoseYourLicense-Externship/blob/master/dlyl.png?raw=true "Title")
