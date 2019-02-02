@@ -1,4 +1,4 @@
-##DontLoseYourLicense
+# DontLoseYourLicense
 
 ## About
 * Knowing all the lastest rules and regulations in a brand new industry is very important. Laws change daily and need to be more avalible for people to know, and thats the whole idea behind this Web Application.
