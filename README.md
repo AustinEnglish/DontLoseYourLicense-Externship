@@ -18,7 +18,7 @@
 ![signup](https://github.com/AustinEnglish/DontLoseYourLicense-Externship/blob/master/Screen%20Shot%202019-02-02%20at%203.14.00%20PM.png?raw=true "Title")
 
 ## Login
-![login](https://github.com/AustinEnglish/DontLoseYourLicense-Externship/blob/master/Screen%20Shot%202019-02-02%20at%203.14.10%20PM.png?raw=true "Title")
+![login](https://github.com/AustinEnglish/DontLoseYourLicense-Externship/blob/master/Profile.png?raw=true "Title")
 
 ## Profile
 ![login](https://github.com/AustinEnglish/DontLoseYourLicense-Externship/blob/master/Screen%20Shot%202019-02-02%20at%203.14.10%20PM.png?raw=true "Title")
